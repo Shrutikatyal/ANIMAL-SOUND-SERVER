@@ -87,6 +87,6 @@ Server: END: OK
 > * C++
 
 ### Modules
-> - [SoundServer.cpp](SoundServer.cpp)
-> - [SoundClient.cpp](SoundClient.cpp)
+> - [SoundServer.cpp](SERVER.cpp)
+> - [SoundClient.cpp](CLIENT.cpp)
 
